@@ -1,0 +1,14 @@
+{
+    "name": "my-telegram-bot",
+    "version": "1.0.0",
+    "main": "api/bot.js",
+    "scripts": {
+      "start": "node api/bot.js"
+    },
+    "dependencies": {
+      "telegraf": "^4.12.2"
+    },
+    "engines": {
+      "node": ">=16.x"
+    }
+  }
